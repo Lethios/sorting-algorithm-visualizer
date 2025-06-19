@@ -1,21 +1,23 @@
-# Project Name
+# Sorting Algorithm Visualizer
 
-Project description
+Sorting Algorithm Visualizer is a simple and interactive tool to understand how different sorting algorithms work. It visually demonstrates the step-by-step process of sorting arrays using popular algorithms such as Bubble Sort, Selection Sort, Insertion Sort, and more.
 
 ## Features
+- Visualizes common sorting algorithms in action
+- Highlights comparisons and swaps in real-time
+- Adjustable speed and array size
+- Clean and intuitive UI using Streamlit
 
 ## Installation
 1. **Ensure Python is installed (Python 3.x recommended).**
 2. Clone the repository and install the dependencies:
  ```bash
-  git clone https://github.com/Lethios/project.git
-  cd project
+  git clone https://github.com/Lethios/sorting-algorithm-visualizer.git
+  cd sorting-algorithm-visualizer
   ```
   ```bash
   pip install -r requirements.txt
   ```
-
-## Usage
 
 ## Author
 **Lethios**
