@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-Sorting Algorithm Visualizer is a simple and interactive tool to understand how different sorting algorithms work. It visually demonstrates the step-by-step process of sorting arrays using popular algorithms such as Bubble Sort, Selection Sort, Insertion Sort, and more.  
+Sorting Algorithm Visualizer is a simple and interactive web tool to understand how different sorting algorithms work. It visually demonstrates the step-by-step process of sorting arrays using popular algorithms such as Bubble Sort, Selection Sort, Insertion Sort, and more.  
   
 Try it out here: [Sorting Visualizer](https://lethios-sorting-algorithm-visualizer.streamlit.app/)
 
